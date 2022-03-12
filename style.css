@@ -47,6 +47,7 @@ body{
     color: white;
     width: 100%;
     font-size: 20px;
+    padding: 3px;
 }
 .Course_info{
     width: 100%;
@@ -73,6 +74,7 @@ span{
 /* major topics */
 .mjr-tpc{
     margin: 4px;
+    width: 100%;
 }
 .mjr-tpc table thead{
     background: rgb(197, 184, 184);
@@ -102,9 +104,10 @@ span{
     line-height: 25px;
 }
 .Txt-bk h3{
-    margin-left:-6em;
+    margin-left:-3em;
     font-size: 20px;
 }
-.Txt-bk li{
-    margin-left: -1em;
+
+.mjr-tpc table{
+    width: 100%;
 }
