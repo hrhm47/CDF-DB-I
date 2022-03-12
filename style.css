@@ -104,8 +104,12 @@ span{
     line-height: 25px;
 }
 .Txt-bk h3{
-    margin-left:-3em;
+    margin-left:2em;
     font-size: 20px;
+}
+.Txt-bk ol{
+    margin-left:6em;
+    /* font-size: 20px; */
 }
 
 .mjr-tpc table{
